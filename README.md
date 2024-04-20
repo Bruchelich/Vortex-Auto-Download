@@ -1,4 +1,4 @@
-Vortex-Auto-Download
+Vortex-Auto-Downloader
 My first project.
 
 A small, unoptimized Python script that automatically downloads all mods listed on a mod collection for free.
@@ -15,7 +15,7 @@ IMPORTANT: Have your main browser and Vortex on the same screen, and it should l
 
 (example below) Note! the download button has to be visible as this script looks for the button on your screen
 
-![image](https://github.com/Bruchelich/Vortex-Auto-Download/assets/136720079/c91d783c-2dac-4841-a5fb-d747e7003fdd)
+![image](https://github.com/Bruchelich/Vortex-Auto-Downloader/assets/136720079/c91d783c-2dac-4841-a5fb-d747e7003fdd)
 
 
 Feel free to message me on Discord or wherever if you encounter any issues. <3
