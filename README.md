@@ -1,24 +1,22 @@
-# Vortex-Auto-Download
+Vortex-Auto-Download
+My first project.
 
-My first project
+A small, unoptimized Python script that automatically downloads all mods listed on a mod collection for free.
 
-Small unoptimised python script that automatically downloads all mods listed on a mod collection for free
+Keep in mind this is not going to be instant; it's still going to be slow. However, now you can do other things while you download the mods and not have to worry about buying premium.
 
-keep in mind this is not going to be instant, it's still going to be slow, but now you can do other things while you download the mods and not have to worry about buying premium 
+Python 3.2 or newer is required to use the software.
 
+First, run setup.exe and make sure it says "All required packages are installed." at the bottom of the terminal that opens.
 
-Python 3.2 or newer is required to use software
+Lastly, run Downloader.exe and press Escape on your keyboard to start and pause the program.
 
-First run setup.exe and make sure it says "All required packages are installed." at the bottom of the terminal that opens 
-
-lastly run Downloader.exe and press escape on your keyboard to start and pause the program. 
-
-IMPORTANT : have ur main browser and Vortex on the same screen and it should look something like this before it can start automatically downloading
+IMPORTANT: Have your main browser and Vortex on the same screen, and it should look something like this before it can start automatically downloading:
 
 (example below)
 
 ![image](https://github.com/Bruchelich/Vortex-Auto-Download/assets/136720079/eb779539-b1be-4813-9be7-85c8232bd99f)
 
-feel free to message me on discord or wherever if i can help with any issues <3
+Feel free to message me on Discord or wherever if you encounter any issues. <3
 
-side note : feel free to work on my script further but make sure that if you share this or that script that u include the source code and the name of the one who wrote it (me)
+Side note: Feel free to work on my script further, but make sure that if you share this or the script, you include the source code and the name of the one who wrote it (me).
