@@ -13,9 +13,10 @@ Lastly, run Downloader.exe and press Escape on your keyboard to start and pause 
 
 IMPORTANT: Have your main browser and Vortex on the same screen, and it should look something like this before it can start automatically downloading:
 
-(example below)
+(example below) Note! the download button has to be visible as this script looks for the button on your screen
 
-![image](https://github.com/Bruchelich/Vortex-Auto-Download/assets/136720079/eb779539-b1be-4813-9be7-85c8232bd99f)
+![image](https://github.com/Bruchelich/Vortex-Auto-Download/assets/136720079/c91d783c-2dac-4841-a5fb-d747e7003fdd)
+
 
 Feel free to message me on Discord or wherever if you encounter any issues. <3
 
